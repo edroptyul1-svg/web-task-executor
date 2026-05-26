@@ -1,0 +1,1 @@
+playwright>=1.40\nhttpx>=0.25\nfake-useragent>=1.4
