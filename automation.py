@@ -1,0 +1,1 @@
+class BrowserAutomation:\n    async def navigate(self, url):\n        pass
